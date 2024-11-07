@@ -1,7 +1,6 @@
-#ifndef GREETING_H_INCLUDED
-#define GREETING_H_INCLUDED
+#ifndef GREETINGS_H
+#define GREETINGS_H
 
+void say_hello(void);
 
-char say_hello(char a);
-
-#endif // GREETINGS_H_INCLUDED
+#endif // GREETINGS_H
