@@ -2,7 +2,7 @@
 #include "print_operations.h"
 
 int main(){
-
-void print_result();
-return 0;
+    int result = add (10 , 5);
+    print_result (result);
+    return 0;
 }
