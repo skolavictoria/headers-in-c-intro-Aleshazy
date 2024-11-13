@@ -2,6 +2,6 @@
 #include "greetings.h"
 
 
-void say_hello(void) {
+void say_hello(void){
     printf("Hello, World!\n");
 }

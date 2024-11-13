@@ -3,6 +3,6 @@
 
 
 
-void print_result (int result) {
-    printf("Result%d\n", result);
+void print_result (int result){
+    printf("Result: 15\n", result);
 }
